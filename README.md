@@ -19,7 +19,7 @@ Rien de bien compliqué : CCleaner va juste supprimer le contenu du répertoire 
 
 A propos
 ==============
-* Testé sur une version 32 bits de Windows 7 (PRO/SP1) avec CCleaner "portable" en version 3.27.1900.
+* Testé sur une version 32 bits de Windows 7 (PRO/SP1) avec CCleaner "portable" en version 3.27.1900 et HubiC-browser en version 0.4.8.
 * Le fichier est mis à disposition mais l'utilisation est faite à vos dépens !
 * Disposez du fichier comme bon vous semble.
 
